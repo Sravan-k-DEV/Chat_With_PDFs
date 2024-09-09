@@ -1,2 +1,2 @@
 # Chat_With_PDFs
-Read the Documentation file
+Read the Documentation PDF file
